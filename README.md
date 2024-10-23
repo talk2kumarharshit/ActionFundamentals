@@ -41,7 +41,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Job descriptions
 
 ### Day 2
-- [ y] Introduction
+- [ ] Introduction
 - [ ] Actions for CI/CD
 - [ ] Permissions for GitHub Token
 - [ ] Environments and Secrets
